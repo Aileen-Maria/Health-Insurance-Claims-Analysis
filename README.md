@@ -38,7 +38,7 @@ Claim distribution by region and claim range
   [Insurance_analysis.pbix](./Insurance_analysis.pbix)
 
 - 📘 Final Report (Insights & Findings):  
-  [Health_Insurance_Claim_Report.pdf](./Health_Insurance_Claim_Report.pdf)
+  [Health_Insurance_Claim_Report.pdf](./Health_Insurance_Claim_Analysis_Report.pdf)
 
 
 
